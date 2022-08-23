@@ -1,5 +1,12 @@
 # Temporal Specialization
 
+
+
+Video: <https://www.usenix.org/conference/usenixsecurity20/presentation/ghavamnia>
+
+
+
+
 This repository has been created to help reproduce the results presented in our 
 paper *Temporal System Call Specialization for Attack Surface Reduction* presented 
 at the 29th Usenix Security Symposium.
